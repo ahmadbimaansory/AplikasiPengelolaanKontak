@@ -1,3 +1,5 @@
+package model;
+
 private int id;
 private String nama;
 private String nomorTelepon;

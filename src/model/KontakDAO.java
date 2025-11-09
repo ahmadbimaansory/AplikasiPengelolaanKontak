@@ -1,3 +1,5 @@
+package model;
+
 import database.DatabaseConnection;
 import java.sql.*;
 import java.util.ArrayList;
